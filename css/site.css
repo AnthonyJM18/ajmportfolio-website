@@ -61,7 +61,9 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    background-color: #d1d1d1;
+    background-color: #3550ba;
+    background-image: url("../img/Lines.png");
+    background-repeat: repeat;
 }
 .footer {
   position: absolute;
@@ -112,6 +114,10 @@ body {
     overflow:auto;
     padding-bottom: 1%;
     border-bottom: 1px solid #000;
+}
+
+.pane:last-child {
+    border-bottom:none;
 }
 
 .pane img{ 
