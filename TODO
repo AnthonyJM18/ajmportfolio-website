@@ -2,8 +2,8 @@ ADD ICON
 
 /*Navigation*/
 Upload resume and edit the link 
-Contact link will create a .... modal?
 Add dynamic scalling for small screens
+contact link will create a modal
 
 /*Content*/
 Add dynamic scaling (looks eww on mobile)
@@ -11,35 +11,12 @@ Add dynamic scaling (looks eww on mobile)
 /*Footer*/
 Add a footer
 
--------------------------------------------------------------------------------------------------
-Add the following
+/*programming*/ 
+Add images from laptop
 
-Projects 
-  |
-  |-- Programming
-  |       |
-  |       |--index.html
-  |
-  |-- Food
-  |     |
-  |     |--index.html
-  |
-  |-- Other
-        |
-        |--index.html
------------------------------------------------------------------------------------------------------
+/*other*/
 
-For each Project page:
-  - Add the nav and footer
-  - Create a layout to showcase the topic
-  - Background images could be:
-        - Food: cartoon icecream cones on a blue background
-        - Programming: who knows
-        - Other: who knows / cartoon game controllers
-
-  
-  
-  
+If you cant think of anything wothwhile to be put on here, delete the page for now
   
   
   
