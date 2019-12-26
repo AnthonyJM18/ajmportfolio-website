@@ -1,9 +1,12 @@
 ADD ICON
 
+Mobile scaling
+
 /*Navigation*/
-Upload resume and edit the link 
+Upload resume and edit the link (make sure to change the pyodbc thing on it) PNG format
 Add dynamic scalling for small screens
 contact link will create a modal
+dynamically add drop down elements, easier to edit and change?
 
 /*Content*/
 Add dynamic scaling (looks eww on mobile)
@@ -11,13 +14,6 @@ Add dynamic scaling (looks eww on mobile)
 /*Footer*/
 Add a footer
 
-/*programming*/ 
-Add images from laptop
-
-/*other*/
-
-If you cant think of anything wothwhile to be put on here, delete the page for now
-  
   
   
   
