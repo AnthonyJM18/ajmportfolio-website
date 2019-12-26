@@ -27,7 +27,7 @@ a {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {
@@ -64,6 +64,7 @@ body {
     background-color: #3550ba;
     background-image: url("../img/Lines.png");
     background-repeat: repeat;
+    font-family: 'Roboto', sans-serif;
 }
 .footer {
   position: absolute;
@@ -85,7 +86,7 @@ body {
     margin: 0;
     padding: 1%;
     list-style: none;
-    font: 24px arial, sans-serif;
+    font: 24px;
     float: left;
 }
 
@@ -136,7 +137,7 @@ body {
     width: 80%;
     list-style: none;
     padding: 0;
-    font: 24px arial, sans-serif;
+    font: 24px;
 }
 
 .pane li {
@@ -151,5 +152,5 @@ body {
 }
 
 .minidesc {
-    font:16px arial, sans-serif;
+    font:16px;
 }
