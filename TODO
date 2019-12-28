@@ -3,7 +3,6 @@ ADD ICON
 Mobile scaling
 
 /*Navigation*/
-Upload resume and edit the link (make sure to change the pyodbc thing on it) PNG format
 Add dynamic scalling for small screens
 contact link will create a modal
 dynamically add drop down elements, easier to edit and change?
@@ -11,10 +10,6 @@ dynamically add drop down elements, easier to edit and change?
 /*Content*/
 Add dynamic scaling (looks eww on mobile)
 
-/*Footer*/
-Add a footer
-
-  
   
   
   
