@@ -1,11 +1,8 @@
-ADD ICON
 
 Mobile scaling
 
 /*Navigation*/
 Add dynamic scalling for small screens
-contact link will create a modal
-dynamically add drop down elements, easier to edit and change?
 
 /*Content*/
 Add dynamic scaling (looks eww on mobile)
