@@ -86,12 +86,13 @@ body {
     margin: 0;
     padding: 1%;
     list-style: none;
-    font: 24px;
     float: left;
 }
 
 .n-link {
     color:#000;
+	font-size: 32px;
+	font-family: 'Roboto', sans-serif;
 }
 
 .n-link:hover {
