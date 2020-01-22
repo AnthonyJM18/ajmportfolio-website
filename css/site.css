@@ -89,6 +89,13 @@ body {
     float: left;
 }
 
+.n-item-p {
+    margin: 0;
+    padding: 1%;
+    list-style: none;
+    float: right;
+}
+
 .n-link {
     color:#000;
 	font-size: 32px;
@@ -154,4 +161,58 @@ body {
 
 .minidesc {
     font:16px;
+}
+
+/*Footer*/
+.card-footer {
+    margin-top: 30px;
+}
+
+@media screen and (max-width:1080px) {
+    .pane h5 {
+        clear:both;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .content {
+        width:100%;
+        margin:0;
+        border:none;
+        background-color:rgba(215, 248, 247, 0.95);
+    }
+    .card-footer{
+        margin:0;
+    }
+}
+
+@media screen and (max-width:625px) {
+
+    .n-item {
+        float: none;
+        border-bottom: 1px solid #000;
+    }
+
+    .n-item-p:first-child {
+        clear: left;
+    }
+
+    .n-item-p {
+        float: left;
+    }
+
+    .l-pane {
+        width: 100%;
+        float: none;
+    }
+}
+
+@media screen and (max-width:525px) {
+    .pane img {
+        display:none;
+    }
+    .pane ul {
+        width: 100%;
+        font-size:150%;
+    }
 }
