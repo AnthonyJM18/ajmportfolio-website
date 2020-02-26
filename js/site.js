@@ -2,10 +2,10 @@
 
     const buildModal = () => {
         div = $(`
-               <div class="modal-dialog modal-lg">
+               <div class="modal-dialog modal-md">
             <div class="modal-content">
                 <div class="modal-header d-block">
-                    <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close">
+                    <button type="button" class="close float-right" data-dismiss="modal" aria-label="Close" modal>
                         <span aria-hidden="true">&times;</span>
                     </button>
                     <h1 class="modal-title text-center" id="modaltitle">Contact Information</h1>
@@ -20,7 +20,7 @@
                         </div>
                         <div class="row mb-2">
                             <div class="col-2">Phone: </div>
-                            <div class="col-3">
+                            <div class="col-4">
                                 <a href="tel:9053416978">(905) 341-6978</a>
                             </div>
                         </div>
@@ -40,5 +40,4 @@
     });
 
     buildModal();
-
 });
