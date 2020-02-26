@@ -135,11 +135,6 @@ body {
     padding-right: 1%;
 }
 
-.pane h1 {
-    float:left;
-    width:80%;
-}
-
 .pane ul {
     float: left;
     width: 80%;
@@ -179,7 +174,7 @@ body {
         width:100%;
         margin:0;
         border:none;
-        background-color:rgba(215, 248, 247, 0.95);
+        background-color:#eeeeee;
     }
     .card-footer{
         margin:0;
@@ -214,5 +209,11 @@ body {
     .pane ul {
         width: 100%;
         font-size:150%;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .pane h1 {
+        width: 100%;
     }
 }
