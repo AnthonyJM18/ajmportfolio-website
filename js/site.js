@@ -15,7 +15,7 @@
                         <div class="row mb-2">
                             <div class="col-2">Email: </div>
                             <div class="col-4">
-                                <a href="mailto:anthonymerante@live.ca">anthonymerante@live.ca</a>
+                                <a href="mailto:anthonymerante@interconnected.live">anthonymerante@live.ca</a>
                             </div>
                         </div>
                         <div class="row mb-2">
