@@ -7,4 +7,4 @@ employers.
 Anyone is welcome to add any changes to enhance the look or feel of the website, all I ask is that you document functionality 
 changes or additions so that I may learn how they work, and how they are programmed. 
 
-Any suggestions are also welcomed! 
+Any suggestions are welcome! 
