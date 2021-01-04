@@ -15,15 +15,10 @@
                         <div class="row mb-2">
                             <div class="col-2">Email: </div>
                             <div class="col-4">
-                                <a href="mailto:anthonymerante@live.ca>anthonymerante@live.ca</a>
+                                <a href="mailto:anthonymerante@live.ca">anthonymerante@live.ca</a>
                             </div>
                         </div>
-                        <div class="row mb-2">
-                            <div class="col-2">Phone: </div>
-                            <div class="col-4">
-                                <a href="tel:9053416978">(905) 341-6978</a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <div class="card-footer text-center">
